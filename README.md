@@ -1,6 +1,6 @@
 # Trauma-Injury-Trend
 
-## Lessons Learned
+## Project Summary
 
 •	Used data visualization graphs to demonstrate the geographic distribution of injury cases. 
 
